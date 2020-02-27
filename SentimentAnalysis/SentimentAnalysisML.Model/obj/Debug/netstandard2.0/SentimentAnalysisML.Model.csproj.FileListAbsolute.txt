@@ -1,0 +1,10 @@
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\bin\Debug\netstandard2.0\SentimentAnalysisML.Model.deps.json
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\bin\Debug\netstandard2.0\SentimentAnalysisML.Model.dll
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\bin\Debug\netstandard2.0\SentimentAnalysisML.Model.pdb
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.csprojAssemblyReference.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.csproj.CoreCompileInputs.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.AssemblyInfoInputs.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.AssemblyInfo.cs
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.dll
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysisML.Model\obj\Debug\netstandard2.0\SentimentAnalysisML.Model.pdb

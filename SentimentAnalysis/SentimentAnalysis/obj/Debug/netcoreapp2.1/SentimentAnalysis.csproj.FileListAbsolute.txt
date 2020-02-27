@@ -1,0 +1,15 @@
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.deps.json
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.json
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.runtimeconfig.dev.json
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.dll
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csprojAssemblyReference.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfoInputs.cache
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.AssemblyInfo.cs
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.dll
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.pdb
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysisML.Model.dll
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.1\SentimentAnalysisML.Model.pdb
+C:\gitenv\MLNET\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.1\SentimentAnalysis.csproj.CopyComplete
